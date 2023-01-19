@@ -13,7 +13,7 @@ Centro Universitário Paulistano - Tecnólogo em Analise e Desenvolvimento de Si
 5º Semestres - Finalizado em 2019
 
 ## Experência Profissional
-* (2018 -  Atual) <br>
+* (2018 -  2021) <br>
 **Stefanini IT Solutions** -
 Analista de Suporte.
   * Suporte em microinformática
